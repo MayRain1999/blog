@@ -15,9 +15,9 @@ const reverseSidebarItems = (items) => {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  title: "FE-Study",
+  tagline: "frontend development cookbook",
+  url: "https://www.fe-study.tech",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
